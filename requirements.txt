@@ -1,0 +1,7 @@
+opencv-python
+PyAutoGUI
+keyboard
+Pillow
+notifiers
+telebot
+setuptools
